@@ -3,5 +3,8 @@
   "version": "1.0.1",
   "main": "src/index.js",
   "author": "Flaque",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
